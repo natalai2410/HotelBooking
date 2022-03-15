@@ -1,2 +1,20 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+@import url(../shared/default-btn/default-btn.css);
+@import url(../shared/default-btn/_header/default-btn_header.css);
+
+@import url(../shared/title/title.css);
+@import url(../shared/subtitle/subtitle.css);
+
+@import url(../shared/container/container.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__content/header__content.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__book-btn/header__book-btn.css);
+@import url(../blocks/header/__menu-item/header__menu-item.css);
+
+@import url(../blocks/first/first.css);
