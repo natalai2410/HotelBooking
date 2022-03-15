@@ -1,0 +1,7 @@
+.first__content {
+	display: grid;
+	grid-template-columns: minmax(587px, 1fr) 1fr 1fr 1fr ;
+	gap: 24px;
+	border: 1px solid #0E1734;
+	padding-bottom: 96px;
+}
