@@ -1,7 +1,29 @@
 .first__content {
 	display: grid;
-	grid-template-columns: minmax(587px, 1fr) 1fr 1fr 1fr ;
+	grid-template-rows: minmax(1em, auto);
+	grid-template-columns: minmax(auto, 587px) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
 	gap: 24px;
 	border: 1px solid #0E1734;
-	padding-bottom: 96px;
+	padding-bottom: 177px;
+	grid-template-areas:
+			"text image_1 image_2 image_3"
 }
+
+.text-area{
+	grid-area:  text;
+}
+
+
+.image-area_1{
+	grid-area:  image_1;
+}
+
+.image-area_2{
+	grid-area:  image_2;
+	position: relative;
+}
+
+.image-area_3{
+	grid-area:  image_3;
+}
+

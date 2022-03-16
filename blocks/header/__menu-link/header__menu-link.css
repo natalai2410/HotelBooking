@@ -1,4 +1,4 @@
-.header__menu-item{
+.header__menu-link{
 	margin-right: 36px;
 
 	font-size: 16px;
@@ -10,6 +10,6 @@
 
 }
 
-.header__menu-item:last-child{
+.header__menu-link:last-child{
 	margin-right: 0;
 }

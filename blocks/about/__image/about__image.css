@@ -1,0 +1,25 @@
+.about__image{
+	grid-area: image;
+	width: 100%;
+	object-fit: cover;
+	/*min-width: 384px;*/
+}
+
+
+@media   (max-width: 1023px) {
+	.about__image {
+		min-width: 288px;
+	}
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+	.about__image {
+		min-width: 354px;
+	}
+}
+
+@media (min-width: 1280px) {
+	.about__image {
+		min-width: 384px;
+	}
+}
