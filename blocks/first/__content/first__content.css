@@ -3,7 +3,6 @@
 	grid-template-rows: minmax(1em, auto);
 	grid-template-columns: minmax(auto, 587px) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
 	gap: 24px;
-	border: 1px solid #0E1734;
 	padding-bottom: 177px;
 	grid-template-areas:
 			"text image_1 image_2 image_3"

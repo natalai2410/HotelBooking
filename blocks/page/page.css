@@ -4,6 +4,7 @@
 	padding: 0;
 	color: #192252;
 	min-width: 320px;
+	max-width: 1200px;
 
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;

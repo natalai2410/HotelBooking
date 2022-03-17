@@ -1,0 +1,5 @@
+.activity__item{
+    display: flex;
+    gap: 126px;
+    padding-bottom: 32px;
+}

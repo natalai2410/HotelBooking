@@ -1,11 +1,11 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
 
 @import url(../blocks/default-btn/default-btn.css);
 @import url(../blocks/default-btn/_header/default-btn_header.css);
 @import url(../blocks/default-btn/_page/default-btn_page.css);
-
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -34,4 +34,22 @@
 @import url(../blocks/about/__paragraph/about__paragraph.css);
 @import url(../blocks/about/__text/about__text.css);
 @import url(../blocks/about/__title/about__title.css);
+
+@import url(../blocks/activities/activites.css);
+@import url(../blocks/activity/activity.css);
+@import url(../blocks/activity/__image/activity__image.css);
+@import url(../blocks/activity/__list/activity__list.css);
+@import url(../blocks/activity/__item/activity__item.css);
+@import url(../blocks/activity/__title/activity__title.css);
+@import url(../blocks/activity/__text/activity__text.css);
+@import url(../blocks/activity/__content/activity_content.css);
+
+@import url(../blocks/interiors/interiors.css);
+@import url(../blocks/interiors/__title/interiors__title.css);
+@import url(../blocks/interiors/__list/interiors__list.css);
+@import url(../blocks/interiors/__item/interiors__item.css);
+@import url(../blocks/interiors/__image/interiors__image.css);
+@import url(../blocks/interiors/__image-main/interiors__image-main.css);
+@import url(../blocks/interiors/__multi-items/interiors__multi-items.css);
+
 

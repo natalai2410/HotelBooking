@@ -1,0 +1,7 @@
+.activity__title{
+    grid-area: title;
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+}
