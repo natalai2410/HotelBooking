@@ -1,0 +1,8 @@
+.footer{
+    background-color:  #0B265A;
+    color: white;
+    height: 350px;
+    display: flex;
+    width: 100%;
+    border: 1px solid red;
+}

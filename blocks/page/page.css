@@ -3,8 +3,7 @@
 	margin: 0 auto 0;
 	padding: 0;
 	color: #192252;
-	min-width: 320px;
-	max-width: 1200px;
+	width: 100%;
 
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;

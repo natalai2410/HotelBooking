@@ -2,36 +2,39 @@
 	display: grid;
 	grid-template-areas:
 			"image text";
+	gap: 126px;
+	border: 1px solid red;
+
 }
 
 
-@media  (max-width: 767px) {
-	.about__content{
-		display: flex;
-		flex-direction: column;
-		margin-top: 32px;
-		width: 100%;
-		min-width: 320px;
-	}
-}
+/*@media  (max-width: 767px) {*/
+/*	.about__content{*/
+/*		display: flex;*/
+/*		flex-direction: column;*/
+/*		margin-top: 32px;*/
+/*		width: 100%;*/
+/*		min-width: 320px;*/
+/*	}*/
+/*}*/
 
-@media  (min-width: 768px) and (max-width: 1023px) {
-	.about__content {
-		gap: 32px;
-	}
-}
+/*@media  (min-width: 768px) and (max-width: 1023px) {*/
+/*	.about__content {*/
+/*		gap: 32px;*/
+/*	}*/
+/*}*/
 
-@media (min-width: 1024px) and (max-width: 1279px) {
-	.about__content{
-		gap: 63px;
-	}
-}
+/*@media (min-width: 1024px) and (max-width: 1279px) {*/
+/*	.about__content{*/
+/*		gap: 63px;*/
+/*	}*/
+/*}*/
 
-@media (min-width: 1280px) {
-	.about__content {
-		gap: 126px;
-	}
-}
+/*@media (min-width: 1280px) {*/
+/*	.about__content {*/
+/*		gap: 126px;*/
+/*	}*/
+/*}*/
 
 
 

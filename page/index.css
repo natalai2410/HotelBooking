@@ -7,8 +7,8 @@
 @import url(../blocks/default-btn/_header/default-btn_header.css);
 @import url(../blocks/default-btn/_page/default-btn_page.css);
 
-@import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/subtitle/subtitle.css);
 
 @import url(../blocks/container/container.css);
 
@@ -21,8 +21,8 @@
 
 @import url(../blocks/first/first.css);
 @import url(../blocks/first/__content/first__content.css);
-@import url(../blocks/section-title/_first/section-first_title.css);
-@import url(../blocks/section-subtitle/_first/section-subtitle_first.css);
+@import url(../blocks/first/__title/firts__title.css);
+@import url(../blocks/first/__subtitle/first__subtitle.css);
 @import url(../blocks/first/__book-btn/first__book-btn.css);
 @import url(../blocks/first/__item/first__item.css);
 @import url(../blocks/first/__image/first__image.css);
@@ -53,3 +53,34 @@
 @import url(../blocks/interiors/__multi-items/interiors__multi-items.css);
 
 
+@import url(../blocks/reservation/reservation.css);
+@import url(../blocks/reservation/__btn/reservation__btn.css);
+@import url(../blocks/reservation/__image/reservation__image.css);
+@import url(../blocks/reservation/__item/reservation__item.css);
+@import url(../blocks/reservation/__item-link/reservation__item-link.css);
+@import url(../blocks/reservation/__item-paragraph/reservation__item-paragraph.css);
+@import url(../blocks/reservation/__item-title/reservation__item-title.css);
+@import url(../blocks/reservation/__items/reservation__items.css);
+@import url(../blocks/reservation/__subtitle/reservation__subtitle.css);
+@import url(../blocks/reservation/__title/reservation__title.css);
+
+@import url(../blocks/reviews/reviews.css);
+
+@import url(../blocks/reviews/__title/reviews__title.css);
+@import url(../blocks/reviews/__avatar/reviews__avatar.css);
+@import url(../blocks/reviews/__fio/reviews__fio.css);
+@import url(../blocks/reviews/__subtitle/reviews__subtitle.css);
+@import url(../blocks/reviews/__tab-control/reviews__tab-control.css);
+@import url(../blocks/reviews/__image/reviews__image.css);
+@import url(../blocks/reviews/__tab-control-item/reviews__tab-control-item.css);
+@import url(../blocks/reviews/__tab-control-item/_selected/reviews__tab-control-item_selected.css);
+
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);

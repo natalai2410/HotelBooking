@@ -1,0 +1,6 @@
+.reservation__item-paragraph{
+	text-align: left;
+	margin-top: 16px;
+	grid-area: paragraph;
+	height: 81px;
+}

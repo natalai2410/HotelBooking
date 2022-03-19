@@ -1,0 +1,8 @@
+.reservation__items{
+	display: grid;
+	grid-template-columns:repeat(3, 1fr);
+	gap: 24px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0 0;
+}

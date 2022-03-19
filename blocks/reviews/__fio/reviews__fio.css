@@ -1,0 +1,11 @@
+.reviews__fio {
+	 margin-top: 40px;
+
+	font-family: 'Inter', Arial, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 30px;
+	letter-spacing: 0;
+	text-align: center;
+}

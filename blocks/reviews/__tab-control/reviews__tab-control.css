@@ -1,0 +1,6 @@
+.reviews__tab-control{
+	display: flex;
+	margin-top: 24px;
+	justify-content: center;
+	align-items: center;
+}

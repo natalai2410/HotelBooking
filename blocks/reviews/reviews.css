@@ -1,0 +1,7 @@
+.reviews{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	display: flex;
+	flex-direction: column;
+	justify-items: center;
+}
