@@ -1,9 +1,7 @@
 .first__item {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
 	margin: 0;
-
-	border: 1px solid red;
+	padding: 0;
+	width: 50%;
+	min-width: 350px;
 
 }

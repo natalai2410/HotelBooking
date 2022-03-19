@@ -1,7 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/content/content.css);
 
 @import url(../blocks/default-btn/default-btn.css);
 @import url(../blocks/default-btn/_header/default-btn_header.css);
@@ -37,6 +36,7 @@
 
 @import url(../blocks/activities/activites.css);
 @import url(../blocks/activity/activity.css);
+@import url(../blocks/activity/__content/activity_content.css);
 @import url(../blocks/activity/__image/activity__image.css);
 @import url(../blocks/activity/__list/activity__list.css);
 @import url(../blocks/activity/__item/activity__item.css);
@@ -75,12 +75,13 @@
 @import url(../blocks/reviews/__tab-control-item/reviews__tab-control-item.css);
 @import url(../blocks/reviews/__tab-control-item/_selected/reviews__tab-control-item_selected.css);
 
-
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__info/footer__info.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
-@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__column-line/footer__column-line.css);
+@import url(../blocks/footer/__column-line/_link/footer__column-line_link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
+

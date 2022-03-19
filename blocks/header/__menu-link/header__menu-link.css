@@ -1,15 +1,20 @@
 .header__menu-link{
 	margin-right: 36px;
-
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 500;
 	line-height: 19px;
 	letter-spacing: 0;
 	text-align: left;
+	opacity: 1;
+	transition: opacity 1s ease;
 
 }
 
 .header__menu-link:last-child{
 	margin-right: 0;
+}
+
+.header__menu-link:hover{
+	opacity: 0.25;
 }

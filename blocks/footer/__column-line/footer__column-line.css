@@ -1,21 +1,12 @@
-.footer__column-link{
+.footer__column-line{
     padding: 0;
-    opacity: 1;
-    transition: opacity 1s ease;
-
     color: #FFFFFF;
-    text-decoration: none;
     margin: 24px 0 0;
-
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 19px;
     letter-spacing: 0;
     text-align: left;
-
 }
 
-.footer__column-link:hover{
-    opacity: 0.25;
-}
